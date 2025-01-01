@@ -1,4 +1,4 @@
 # my-demo
 This is my git repository.
 <br>
-Author - Priyanka Kardile
+Author - Priyanka (Java developer)
